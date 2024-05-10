@@ -53,6 +53,6 @@ void peek() {
             current = current->next;
         }
         cout << endl;
-    }
+    }  //return the value of the top node
 }
 };
